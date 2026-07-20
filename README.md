@@ -8,3 +8,8 @@ This repository hosts the web application and backend configuration for the YTC 
 * **Databases**: 
   * **Cloud Firestore**: Primary database for profiles, carts, and order history.
   * **Realtime Database**: Used for live inventory drops and real-time carts.
+## Getting Started
+
+1. **Clone the repository** and install dependencies:
+   ```bash
+   npm install
